@@ -1,5 +1,0 @@
-GROQ_API_KEY="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"
-LANGSMITH_TRACING=true
-LANGSMITH_ENDPOINT="https://api.smith.langchain.com"
-LANGSMITH_API_KEY="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"
-LANGSMITH_PROJECT="Reflection_workflow"
